@@ -7,7 +7,7 @@
 
 - :zap: [Курсовые работы JAVA](https://github.com/AtiskovaA?tab=repositories)
 
-- ⚡ [Сертификаты](https://drive.google.com/file/d/1EBA_bSnGW_kiT024sHONImatIuP3IznV/view?usp=share_link)
+- 😄 [Сертификаты](https://drive.google.com/file/d/1EBA_bSnGW_kiT024sHONImatIuP3IznV/view?usp=share_link)
 
 - :mailbox:Связаться со мной: mailbox.nk@mail.ru
 
