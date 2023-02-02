@@ -1,5 +1,5 @@
-### Hi there 👋
-### :woman_technologist: About Me :
+### Привет 👋
+### :woman_technologist: Обо мне :
 Я Атискова Анастасия, java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 ### :hammer_and_wrench: Вот, что я умею
 - :telescope: JAVA. [Репозиторий с дипломной работой.](https://github.com/AtiskovaA/pcs-final-diplom)
@@ -7,7 +7,7 @@
 
 - :zap: [Курсовые работы JAVA.](https://github.com/AtiskovaA?tab=repositories)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Связаться со мной: mailbox.nk@mail.ru
 
 
 
