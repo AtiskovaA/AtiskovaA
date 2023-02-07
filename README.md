@@ -5,7 +5,7 @@
  учусь и постоянно развиваюсь.
 ### :hammer_and_wrench: Вот, что я умею
 - :telescope: JAVA. [Репозиторий с дипломной работой](https://github.com/AtiskovaA/pcs-final-diplom)
-- :seedling: [Домашние работы по курсу JAVA](https://github.com/AtiskovaA?tab=repositories)
+- :seedling: [Домашние работы по курсу JAVA](https://github.com/AtiskovaA/Homework)
 
 - :zap: [Курсовые работы JAVA](https://github.com/AtiskovaA?tab=repositories)
 
